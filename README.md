@@ -1,5 +1,18 @@
 ## ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly, Software Engineering Immersive
 # Project #2: Reacathon
+
+```
+┏━┓┏━┓━━━━━━━━━━━━━━━━━━┏┓┏┓┏┓━━━━━━━┏┓━━━┏┓━━━━━━━━━━┏┓━━━━
+┃┃┗┛┃┃━━━━━━━━━━━━━━━━━━┃┃┃┃┃┃━━━━━━━┃┃━━━┃┃━━━━━━━━━━┃┃━━━━
+┃┏┓┏┓┃┏┓┏┓┏━━┓┏┓┏━━┓━━━━┃┃┃┃┃┃┏━━┓┏━┓┃┃━┏━┛┃┏┓┏┓┏┓┏┓┏━┛┃┏━━┓
+┃┃┃┃┃┃┃┃┃┃┃━━┫┣┫┃┏━┛━━━━┃┗┛┗┛┃┃┏┓┃┃┏┛┃┃━┃┏┓┃┃┗┛┗┛┃┣┫┃┏┓┃┃┏┓┃
+┃┃┃┃┃┃┃┗┛┃┣━━┃┃┃┃┗━┓━━━━┗┓┏┓┏┛┃┗┛┃┃┃━┃┗┓┃┗┛┃┗┓┏┓┏┛┃┃┃┗┛┃┃┃━┫
+┗┛┗┛┗┛┗━━┛┗━━┛┗┛┗━━┛━━━━━┗┛┗┛━┗━━┛┗┛━┗━┛┗━━┛━┗┛┗┛━┗┛┗━━┛┗━━┛
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+[**Visit *Music Worldwide* here**](https://florian-wilisch.github.io/project-2/)
 ## Overview
 In teams of two we were asked to build a **React application** that consumes a **public API**.
 We decided to build a music site where you could **discover top tracks and music news from around the world**.
