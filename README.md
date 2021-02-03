@@ -135,7 +135,7 @@ After reflection, inserting the images via a background-image in a CSS class mig
 ### Setting up the search page in record time [Victory]
 We felt very satisfied that we managed to pull the Artist Search page together in just about an hour by leveraging our code and learnings from building the Charts and Artist pages beforehand.
 The API calls where similar, so our main challenge was the layout of the search results.
-### Carousel
+### Carousel [Challenge]
 One of the biggest challenges for us was to get the carousel to work in an infinite loop without skipping from end to beggining. There seemed to be an issue with the number of slides shown vs the number of slides skipped onclick - this was finally resolved with a lot of trial and error of different aspects of the documentation. Unfortunately at the expense of the mobile responsiveness for the time being.
 Due to the fact that we were filtering an array from an input and then mapping it into the carousel, another issue we faced was the output if there were fewer items to show than the number of slides set to be shown for the carousel. We got around this with an if statement returning the slides as individual items.
 ```
@@ -157,6 +157,13 @@ if (filterPlaylists().length < 8) {
     </>
 ``` 
 ![filter](src/images/screenshots/project-2-filter.png)
+
+## Key Learnings
+* Learned to call external APIs, with and without keys.
+* Learned to combine different API calls to generate content from various sources on the same page.
+* Learned to dynamically create content (artist) pages.
+* Learned how to dynamically change single items in a mapped array, ie. the play button. (Although this wasn't implemented because it was only understood after the project deadline).
+
 ## Screenshots
 ![screenshot](src/images/screenshots/1.png)
 <img src="src/images/screenshots/2.png" alt="Home Screen" width="49.5%"> <img src="src/images/screenshots/3.png" alt="Chart Filter" width="49.5%">
